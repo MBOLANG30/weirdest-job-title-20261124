@@ -1,0 +1,1 @@
+{"description":"Outputs the weirdest job title imaginable: Director of Reheating Fish in the Office Microwave.","license":"MIT","main":"main.ts","name":"weirdest-job-title-20261124","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
